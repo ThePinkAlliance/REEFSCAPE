@@ -14,14 +14,14 @@
 
 ### Subsystems (20-30)
 
-| Subsystem | Name (Phoenix Tuner X) | Type       | ID  |
-| --------- | ---------------------- | ---------- | --- |
-| Elevator  | ElevatorLift           | Kraken x60 | 20  |
-| Climber   | Climber                | Kraken x60 | 21  |
-| Algae     | AlgaePivot             | Kraken x44 | 22  |
-| Algae     | AlgaeSpinner           | Neo Vortex | 23  |
-| Coral     | CoralIntake            | 775 pro    | 24  |
-| Coral     | AlgaeEject             | 775 pro    | 25  |
+| Subsystem | Name (Phoenix Tuner X) | Type                 | ID  |
+| --------- | ---------------------- | -------------------- | --- |
+| Elevator  | ElevatorLift           | Kraken x60           | 20  |
+| Climber   | Climber                | Kraken x60           | 21  |
+| Algae     | AlgaePivot (AlphaBot)  | SPARKFlex Neo Vortex | 22  |
+| Algae     | AlgaeSpinner(AlphaBot) | SPARKFlex Neo Vortex | 23  |
+| Coral     | CoralIntake            | SPARKMax 775 pro     | 24  |
+| Coral     | AlgaeEject             | SPARKMax 775 pro     | 25  |
 ___
 ## Encoders (1-9)
 
