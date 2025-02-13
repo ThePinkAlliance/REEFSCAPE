@@ -45,6 +45,10 @@ ___
 ___
 ## Digital/Analog IO
 
-| Type | Subsystem | Function | Port ID | Digital/Analog |
-| ---- | --------- | -------- | ------- | -------------- |
-|      |           |          |         |                |
+| Type      | Subsystem | Function | Port ID | Digital/Analog |
+| --------- | --------- | -------- | ------- | -------------- |
+| Encoder   | Algae     |  Pivot   |  0A, 1B | Digital        |
+| Proximity | Algae     |  Detect  |  2      | Digital        |
+| Limit     | Elevator  |  Bottom  |  3      | Digital        |
+| Limit     | Elevator  |  Top     |  4      | Digital        |
+| Proximity | Coral     |  Detect  |  5      | Digital        |
