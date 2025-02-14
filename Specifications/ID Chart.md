@@ -47,9 +47,9 @@ ___
 
 | Type      | Subsystem | Function | Port ID | Digital/Analog |
 | --------- | --------- | -------- | ------- | -------------- |
-| Encoder   | Algae     |  Pivot   |  0A, 1B | Digital        |
+| Encoder   | Algae     |  Pivot   |  0A(Blue), 1B(Yellow) | Digital        |
 | Proximity | Algae     |  Detect  |  2      | Digital        |
-| Encoder   | Elevator  |  Elevator|  3A, 4B | Digital        |
+| Encoder   | Elevator  |  Elevator|  3A(Blue), 4B(Yellow) | Digital        |
 | Limit     | Elevator  |  Bottom  |  5      | Digital        |
 | Limit     | Elevator  |  Top     |  6      | Digital        |
-| Proximity | Coral     |  Detect  |  7      | Digital        |
+| Proximity | Coral     |  Detect  |  7(White)      | Digital        |
