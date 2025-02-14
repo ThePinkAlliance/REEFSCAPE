@@ -49,6 +49,7 @@ ___
 | --------- | --------- | -------- | ------- | -------------- |
 | Encoder   | Algae     |  Pivot   |  0A, 1B | Digital        |
 | Proximity | Algae     |  Detect  |  2      | Digital        |
-| Limit     | Elevator  |  Bottom  |  3      | Digital        |
-| Limit     | Elevator  |  Top     |  4      | Digital        |
-| Proximity | Coral     |  Detect  |  5      | Digital        |
+| Encoder   | Elevator  |  Elevator|  3A, 4B | Digital        |
+| Limit     | Elevator  |  Bottom  |  5      | Digital        |
+| Limit     | Elevator  |  Top     |  6      | Digital        |
+| Proximity | Coral     |  Detect  |  7      | Digital        |
