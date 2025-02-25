@@ -45,7 +45,7 @@ ___
 ___
 ## Digital/Analog IO
 
-| Type      | Subsystem | Function | Port ID | Digital/Analog |
+| Type      | Subsystem | Function | Port ID | Digital/Analog/PWM |
 | --------- | --------- | -------- | ------- | -------------- |
 | Encoder   | Algae     |  Pivot   |  0A(Blue), 1B(Yellow) | Digital        |
 | Proximity | Algae     |  Detect  |  2      | Digital        |
@@ -53,3 +53,5 @@ ___
 | Limit     | Elevator  |  Bottom  |  5      | Digital        |
 | Limit     | Elevator  |  Top     |  6      | Digital        |
 | Proximity | Coral     |  Detect  |  7(White)      | Digital        |
+| REV Blinkin | LED     |  LED Control  |  0      | PWM        |
+
